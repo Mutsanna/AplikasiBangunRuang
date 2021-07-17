@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Aplikasi Bangun Ruang</string>
+    <string name="bangunruang_name">Nama Bangun Ruang</string>
+    <string name="detail">Detail</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">With CardView</string>
+    <string name="about">About</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+</resources>
